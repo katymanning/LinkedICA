@@ -1,5 +1,5 @@
 # LinkedICA
-Linked independent component analysis (beta version) developed with Dr. Alberto Llera and the FSL group.
+Linked independent component analysis (beta version) developed with Dr. Alberto Llera and the FSL group. Please note that the main flica pipeline has been modified into part A and B to allow feasible big data analyses.
 
 
 *COMMAND LINE USE
